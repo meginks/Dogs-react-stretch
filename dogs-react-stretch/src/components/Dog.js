@@ -3,7 +3,10 @@ import React from "react";
 function Dog (props) {
     return (
         <div className="dog-box">
-        <img src={props.dog.message} />
+        <h1>Dog</h1>
+        <img src={props.dog.message} alt="dog image"/>
         </div>
     )
 }
+
+export default Dog;
