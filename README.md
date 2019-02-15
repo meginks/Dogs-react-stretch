@@ -1,0 +1,1 @@
+This is the stretch problem for the Lambda School Sprint-6 Sprint Challenge.
